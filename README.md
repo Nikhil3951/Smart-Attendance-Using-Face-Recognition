@@ -1,5 +1,5 @@
 # Smart-Attendance-Using-Face-Recognition
-Face Recognition using Open CV #This project is developed by G.Venkata Nikhil 
+Face Recognition using Open CV #This project is developed by G.Venkata Nikhil. 
 Steps: Initially,you will be having an empty StudentDetails.csv file. After each person's registration it will be updated. 
 1.)Run the file Smart_Attendance.py. 
 2.)You'll come across a GUI interface with a set of buttons and attributes.Follow the below procedure now. 
